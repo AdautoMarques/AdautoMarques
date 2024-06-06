@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou amante da tecnologia<br><br>Formado em Analise e desenvolvimento de sistemas <br><br>JavaScript<br>Python<br>Cypress
+Sou amante da tecnologia<br><br>Formado em Analise e desenvolvimento de sistemas <br><br>JavaScript<br>React Native<br>Expo
 
 
 
